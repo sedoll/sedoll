@@ -9,7 +9,9 @@
   
 
 - 🌱 I am currently learning web full stack.  
-  
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sedo)](https://solved.ac/sedo/)
 
 <br/>  
 
@@ -81,9 +83,6 @@
 
 </td></tr>
 
-<tr>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sedo)](https://solved.ac/sedo/)
-</tr>
 </table>
 
 <br/>  
