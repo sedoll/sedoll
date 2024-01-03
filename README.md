@@ -81,9 +81,7 @@
 
 </td></tr></table>
 
-<div align="center">
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sedo)](https://solved.ac/sedo/)
-</div>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sedo)](https://solved.ac/sedo/)
 
 <br/>  
 
