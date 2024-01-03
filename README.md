@@ -79,9 +79,12 @@
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 </div>
 
-</td></tr></table>
+</td></tr>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sedo)](https://solved.ac/sedo/)
+<tr>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sedo)](https://solved.ac/sedo/)
+</tr>
+</table>
 
 <br/>  
 
