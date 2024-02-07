@@ -1,16 +1,3 @@
-<div align="center">
-</div>  
-  
-
-### <div align="center">I'm Oh Se Hoon, who has been studying computer science since 2021 and has been building development skills. 👨‍💻 🚀</div>  
-  
-
-- 🔭 I'm not working yet.  
-  
-
-- 🌱 I am currently learning web full stack.  
-
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sedo)](https://solved.ac/sedo/)
 
 <br/>  
