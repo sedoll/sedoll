@@ -65,7 +65,6 @@
 <img src ="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img src ="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <img src ="https://img.shields.io/badge/gitlab-FC6D26.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
-<img src ="https://img.shields.io/badge/terminal-4D4D4D.svg?&style=for-the-badge&logo=windowsterminal&logoColor=white"/>
 </div>
 
 <h2>📝 SNS </h2>
