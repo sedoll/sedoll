@@ -23,7 +23,6 @@
 
 * 운전면허 2종 보통 (19.09) <br>
 * 정보처리기사 (22.11) <br>
-* [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sedo)](https://solved.ac/sedo/)
 <br/>
 <d></d>
 
@@ -89,6 +88,12 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sedoll&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <br/>  
+
+
+## BOJ Stats  
+<div align="center">[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sedo)](https://solved.ac/sedo/)</div>  
+<br/>  
+
 
 
 ## Recent Blog Posts  
