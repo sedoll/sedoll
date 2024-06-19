@@ -96,7 +96,6 @@
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sedo">
 </a>
 </div>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sedo)](https://solved.ac/sedo/)  
 <br/>  
 
 
