@@ -1,105 +1,95 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sedo)](https://solved.ac/sedo/)
+<h2>💡 About Me!  </h2>
 
-<br/>  
+<h>🖐 많은 것을 배우고 성장하며 더 나은 서비스를 도출하려고 노력중인 개발자 오세훈 입니다 </b>.  <br></br></h>
 
+<h2>🎓 Experience & Social Activity</h2>
 
-## My Skill Set  
-<table align="center"><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-</div>  
+|소속 및 단체|활동 기간|내용|
+|---|---|---|
+|천재교육|24.02 ~  | 천재교육 IT 운영팀 (T셀파 유지보수, 리뉴얼, 개발)|
+|천재교육 IT 아카데미|23.07 ~ 23.12  | HRD, Java Fullstack 수강|
+|공주대학교|21.03 ~ 23.08  | 국립 공주대학교 컴퓨터공학과 (학사 졸업)|
+|유한대학교|17.03 ~ 21.02  | 유한대학교 전자공학과 (전문학사 졸업)|
 
 
 
-### Backend  
-<div align="center">  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-</div>  
+<h2>💻 Projects</h3>
 
+|기간|내용|도메인|역할|
+|---|---|---|---|
+|2024.04 ~ |내용|<a href="">도메인</a>|역할|
 
+<h2>🎖️ Awards/Certificates</h2>
 
-### Android  
-<div align="center">  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
-<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+* 운전면허 2종 보통 (19.09) <br>
+* 정보처리기사 (22.11) <br>
+* [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sedo)](https://solved.ac/sedo/)
+<br/>
+<d></d>
+
+<h2>👨‍💻 Tech Skills!  </h2>
+<h3>📲 Frontend </h3>
+<div>
+<img src ="https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
+<img src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
+<img src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+<img src="https://img.shields.io/badge/jsp-FF4000?style=for-the-badge&logo=jsr&logoColor=white">
+<img src ="https://img.shields.io/badge/thymeleaf-005F0F.svg?&style=for-the-badge&logo=thymeleaf&logoColor=white"/>
+<img src="https://img.shields.io/badge/apachefreemarker-326CAC?style=for-the-badge&logo=apachefreemarker&logoColor=white">
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-### Python  
-<div align="center">  
-<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
-</div>  
-
-
-
-### DB  
-<div align="center">  
-<a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
-<a href="https://www.microsoft.com/" target="_blank">MSSQL</a>  
+<h3>⚒ Backend </h3>
+<div>
+<img  src="https://img.shields.io/badge/java-FF160B?style=for-the-badge&logo=Jameson&logoColor=white"/>
+<img src ="https://img.shields.io/badge/SPRING-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
+<img src ="https://img.shields.io/badge/SPRING BOOT-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white"/>
+<img src ="https://img.shields.io/badge/Python-blue.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+<img src ="https://img.shields.io/badge/kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+<h3>⚒ DB</h3>
+<img src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MYSQL&logoColor=white"/>
+<img src ="https://img.shields.io/badge/MariaDB-003545.svg?&style=for-the-badge&logo=MariaDB&logoColor=white"/>
+<img src ="https://img.shields.io/badge/microsoftsqlserver-CC2927.svg?&style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<div>
 </div>
 
-### Framework
-<div align="center">  
-<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" width="50" /></a>
+<h3>⚒ Others</h3>
+<img src ="https://img.shields.io/badge/android-34A853.svg?&style=for-the-badge&logo=android&logoColor=white"/>
+<img src ="https://img.shields.io/badge/androidstudio-3DDC84.svg?&style=for-the-badge&logo=androidstudio&logoColor=white"/>
+<img src ="https://img.shields.io/badge/opencv-5C3EE8.svg?&style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src ="https://img.shields.io/badge/jenkins-D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src ="https://img.shields.io/badge/Redis-FF4438.svg?&style=for-the-badge&logo=Redis&logoColor=white"/>
+<img src ="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img src ="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<img src ="https://img.shields.io/badge/gitlab-FC6D26.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
+<img src ="https://img.shields.io/badge/terminal-4D4D4D.svg?&style=for-the-badge&logo=windowsterminal&logoColor=white"/>
+<div>
+
 </div>
 
-</td></tr>
-
-</table>
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/sedoll" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<h2>📝 SNS </h2>
+<div>
+<a alt="github" href="https://github.com/sedoll" target="_blank">
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://www.youtube.com/channel/UCgJ8iR8g3_7Cx-kqZZAcRrQ" target="_blank">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-</a>
-<a href="https://www.instagram.com/se_do11/" target="_blank">
+<a alt="instagram" href="https://www.instagram.com/se_do11/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href="https://blog.naver.com/tmvmffpsej" target="_blank">
-<img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white">
+<a alt="naver blog" href="https://blog.naver.com/tmvmffpsej" target="_blank">
+<img src="https://img.shields.io/badge/Naver blog-03C75A?style=for-the-badge&logo=naver&logoColor=white">
+</a>
+<a alt="velog" href="https://velog.io/@sedo11/posts" target="_blank">
+<img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
 </a>
 <a href="https://www.reddit.com/user/Educational_Daikon87" target="_blank">
 <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
-</div>  
-  
-
-<br/>  
-
+</div>
+<br/>
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sedoll&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
 <br/>  
 
 
@@ -107,12 +97,7 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=sedoll&&style=flat-square" align="center" />
 </div>  
-  
-
 <br/>  
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSEDO11&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<br />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
