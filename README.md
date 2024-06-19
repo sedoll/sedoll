@@ -49,13 +49,14 @@
 </div>
 
 <h3>⚒ DB</h3>
+<div>
 <img src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MYSQL&logoColor=white"/>
 <img src ="https://img.shields.io/badge/MariaDB-003545.svg?&style=for-the-badge&logo=MariaDB&logoColor=white"/>
 <img src ="https://img.shields.io/badge/microsoftsqlserver-CC2927.svg?&style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<div>
 </div>
 
 <h3>⚒ Others</h3>
+<div>
 <img src ="https://img.shields.io/badge/android-34A853.svg?&style=for-the-badge&logo=android&logoColor=white"/>
 <img src ="https://img.shields.io/badge/androidstudio-3DDC84.svg?&style=for-the-badge&logo=androidstudio&logoColor=white"/>
 <img src ="https://img.shields.io/badge/opencv-5C3EE8.svg?&style=for-the-badge&logo=opencv&logoColor=white"/>
@@ -65,8 +66,6 @@
 <img src ="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <img src ="https://img.shields.io/badge/gitlab-FC6D26.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
 <img src ="https://img.shields.io/badge/terminal-4D4D4D.svg?&style=for-the-badge&logo=windowsterminal&logoColor=white"/>
-<div>
-
 </div>
 
 <h2>📝 SNS </h2>
