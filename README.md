@@ -17,7 +17,7 @@
 
 |기간|내용|도메인|역할|
 |---|---|---|---|
-|24.05 ~ 24.09|T셀파 AI 실험실|<a href="https://www.tsherpa.co.kr/site/gpt/index.html">도메인</a>|페이지 프론트 엔드(FreeMarker, Vue.js) 작업, <br> 프롬프트 페이지 백엔드(Java, DB) 작업|
+|24.05 ~ 24.09|T셀파 AI 실험실|<a href="https://www.tsherpa.co.kr/site/gpt/index.html">도메인</a>|페이지 프론트 엔드(FreeMarker, Alpine.js) 작업, <br> 프롬프트 페이지 백엔드(Java, DB) 작업|
 
 <h2>🎖️ Awards/Certificates</h2>
 
@@ -36,6 +36,8 @@
 <img src="https://img.shields.io/badge/jsp-FF4000?style=for-the-badge&logo=jsr&logoColor=white">
 <img src ="https://img.shields.io/badge/thymeleaf-005F0F.svg?&style=for-the-badge&logo=thymeleaf&logoColor=white"/>
 <img src="https://img.shields.io/badge/apachefreemarker-326CAC?style=for-the-badge&logo=apachefreemarker&logoColor=white">
+<img src="https://img.shields.io/badge/alpinedotjs-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/vuedotjs-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
 </div>
 
 <h3>⚒ Backend </h3>
