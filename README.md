@@ -17,7 +17,7 @@
 
 |기간|내용|도메인|역할|
 |---|---|---|---|
-|2024.04 ~ |내용|<a href="">도메인</a>|역할|
+|24.05 ~ 24.09|T셀파 AI 실험실|<a href="https://www.tsherpa.co.kr/site/gpt/index.html">도메인</a>|역할 : 페이지 프론트 엔드 작업 및, 프롬프트 페이지 백엔드 작업|
 
 <h2>🎖️ Awards/Certificates</h2>
 
