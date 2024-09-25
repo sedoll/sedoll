@@ -37,7 +37,7 @@
 <img src ="https://img.shields.io/badge/thymeleaf-005F0F.svg?&style=for-the-badge&logo=thymeleaf&logoColor=white"/>
 <img src="https://img.shields.io/badge/apachefreemarker-326CAC?style=for-the-badge&logo=apachefreemarker&logoColor=white">
 <img src="https://img.shields.io/badge/alpinedotjs-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/vuedotjs-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/vuedotjs-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=black">
 </div>
 
 <h3>⚒ Backend </h3>
