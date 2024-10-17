@@ -22,6 +22,7 @@
 <h2>🎖️ Awards/Certificates</h2>
 
 * 정보처리기사 (22.11) <br>
+* <a href="https://github.com/sedoll/ai_gym">교내 캡스톤 경진대회 2등 수상</a> (20.12) <br>
 <br/>
 <d></d>
 
