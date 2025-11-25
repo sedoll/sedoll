@@ -18,9 +18,10 @@
 |기간|내용|도메인|역할|개발 스택|
 |---|---|---|---|---|
 |24.02 ~ 24.12|T셀파 학교 크롤러 개발, 운영|해당 도메인은 회원만 접근가능|학교 공지사항, 식단표, 가정통신문 크롤링 및 수정|Java, Spring Boot, MyBatis, JPA, MariaDB, Js, AlpinJs, Jquery, Freemarker|
-|24.05 ~ 24.09|T셀파 AI실험실|<a href="https://www.tsherpa.co.kr/site/gpt/index.html">바로가기</a>|페이지 프론트 엔드(FreeMarker, Alpine.js) 작업, <br> 프롬프트 페이지 백엔드(Java, DB) 작업|Java, Spring Boot, MyBatis, JPA, MsSQL, Js, AlpinJs, Jquery, Freemarker|
-|25.01 ~ 25.02|T셀파 AI 디지털교과서 자료실|[바로가기](https://ele.tsherpa.co.kr/site/aidt_data/main.html)|페이지 프론트 엔드(FreeMarker, Alpine.js) 작업, <br> 프롬프트 페이지 백엔드(Java, DB) 작업|Java, Spring Boot, MyBatis, JPA, MsSQL, Js, AlpinJs, Jquery, Freemarker|
-|25.02 ~ 25.04|T셀파 수업혁신연구대회|[바로가기](https://ele.tsherpa.co.kr/site/class-innov/index.html)|페이지 프론트 엔드(FreeMarker, Alpine.js) 작업, <br> 프롬프트 페이지 백엔드(Java, DB) 작업|Java, Spring Boot, MyBatis, JPA, MsSQL, Js, AlpinJs, Jquery, Freemarker|
+|24.05 ~ 24.09|T셀파 AI실험실|<a href="https://www.tsherpa.co.kr/site/gpt/index.html">바로가기</a>|프론트 엔드 작업, <br> 프롬프트 페이지 백엔드 작업|Java, Spring Boot, MyBatis, JPA, MsSQL, Js, AlpinJs, Jquery, Freemarker|
+|25.01 ~ 25.02|T셀파 AI 디지털교과서 자료실|[바로가기](https://ele.tsherpa.co.kr/site/aidt_data/main.html)|프론트 엔드 작업, <br> 백엔드 작업|Java, Spring Boot, MyBatis, JPA, MsSQL, Js, AlpinJs, Jquery, Freemarker|
+|25.02 ~ 25.04|T셀파 수업혁신연구대회|[바로가기](https://ele.tsherpa.co.kr/site/class-innov/index.html)|프론트 엔드 작업, <br> 백엔드 작업|Java, Spring Boot, MyBatis, JPA, MsSQL, Js, AlpinJs, Jquery, Freemarker|
+|25.02 ~ 25.04|T셀파 초등, 중고등 이벤트 페이지 분리|[초등 바로가기](https://ele.tsherpa.co.kr/site/event-main/index.html) <br> [중고등 바로가기](https://mh.tsherpa.co.kr/site/event-main/index.html)|프론트 엔드 작업, <br> 백엔드 작업|Java, Spring Boot, MyBatis, JPA, MsSQL, Js, AlpinJs, Jquery, Freemarker|
 
 <h2>🎖️ Awards/Certificates</h2>
 
