@@ -1,116 +1,162 @@
-<h2>💡 About Me!  </h2>
+# 📄 경력 기술서 (Career Description)
 
-<h>🖐 많은 것을 배우고 성장하며 더 나은 서비스를 도출하려고 노력중인 개발자 오세훈 입니다 </b>.  <br></br></h>
+## 👤 기본 정보
+* **성명:** 오세훈
+* **직무:** Full Stack Developer (Java/Spring Boot)
+* **Email:** do11anm@naver.com
+* **GitHub:** [https://github.com/sedoll](https://github.com/sedoll)
+* **Blog:** [https://blog.naver.com/tmvmffpsej](https://blog.naver.com/tmvmffpsej)
+* **Velog:** [https://velog.io/@sedo11/posts](https://velog.io/@sedo11/posts)
 
-<h2>🎓 Experience & Social Activity</h2>
+> **"끊임없이 배우고 성장하며, 사용자에게 더 나은 가치를 제공하는 서비스를 만드는 개발자입니다."**
 
-|소속 및 단체|활동 기간|내용|
-|---|---|---|
-|천재교육 (풀스택 개발자, 팀원)|24.02 ~  | 천재교육 IT 운영팀 (T셀파 담당)|
-|천재교육 IT 아카데미|23.07 ~ 23.12  | HRD, Java Fullstack 수강|
-|공주대학교|21.03 ~ 23.08  | 국립 공주대학교 컴퓨터공학과 (학사 졸업)|
-|유한대학교|17.03 ~ 21.02  | 유한대학교 전자공학과 (전문학사 졸업)|
+---
 
+## 🛠 기술 스택 (Tech Skills)
 
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat-square) ![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-<h2>💻 Projects</h3>
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+<br>![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white) ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white) ![FreeMarker](https://img.shields.io/badge/FreeMarker-326CAC?style=flat-square&logo=apachefreemarker&logoColor=white)
 
-|기간|프로젝트|상세|도메인|역할|개발 스택|
-|---|---|---|---|---|---|
-|24.02 ~ 24.12|T셀파 학교 크롤러 개발, 운영|전국의 초, 중, 고등학교의 게시판, 급식등을 긁어오는 크롤링 개발|해당 도메인은 회원만 접근가능|학교 공지사항, 식단표, 가정통신문 크롤링 및 수정|Java, Spring Boot, MyBatis, JPA, MariaDB, Js, AlpinJs, Jquery, Freemarker|
-|24.05 ~ 24.09|T셀파 AI실험실|GPT API를 활용해 사용자들이 채팅형 ai 플랫폼 구축 및 독후감 첨삭 개발 |<a href="https://www.tsherpa.co.kr/site/gpt/index.html">바로가기</a>|프론트 엔드 작업, <br> 프롬프트 페이지 백엔드 작업|Java, Spring Boot, MyBatis, JPA, MsSQL, Js, AlpinJs, Jquery, Freemarker|
-|25.01 ~ 25.02|T셀파 AI 디지털교과서 자료실|ai교과서 설명 및 소개 사이트 개발|[바로가기](https://ele.tsherpa.co.kr/site/aidt_data/main.html)|프론트 엔드 작업, <br> 백엔드 작업|Java, Spring Boot, MyBatis, JPA, MsSQL, Js, AlpinJs, Jquery, Freemarker|
-|25.02 ~ 25.05|T셀파 수업혁신연구대회|1년에 한 번씩 선생님들과 함께 미래의 수업에 대한 아이디어를 얻기위해 개발한 소통 및 이벤트 페이지|[바로가기](https://ele.tsherpa.co.kr/site/class-innov/index.html)|프론트 엔드 작업, <br> 백엔드 작업|Java, Spring Boot, MyBatis, JPA, MsSQL, Js, AlpinJs, Jquery, Freemarker|
-|25.07 ~ 25.10|T셀파 초등, 중고등 이벤트 페이지 분리|T셀파 사이트 고도화|[초등](https://ele.tsherpa.co.kr/site/event-main/index.html) <br> [중고등](https://mh.tsherpa.co.kr/site/event-main/index.html)|프론트 엔드 작업, <br> 백엔드 작업|Java, Spring Boot, MyBatis, JPA, MsSQL, Js, AlpinJs, Jquery, Freemarker|
+### Database
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
-<h2>🎖️ Awards/Certificates</h2>
+### DevOps & Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-* 정보처리기사 (22.11) <br>
-* <a href="https://github.com/sedoll/ai_gym">교내 캡스톤 경진대회 2등 수상</a> (20.12) <br>
-<br/>
-<d></d>
+---
 
-<h2>👨‍💻 Tech Skills!  </h2>
-<h3>📲 Frontend </h3>
+## 🏢 경력 요약 (Work Experience)
+
+### **천재교육 (Chunjae Education)**
+**IT 운영팀 (T셀파 담당) | 2024.02 ~ 현재**
+* T셀파(교수학습 지원 플랫폼) 서비스의 백엔드 및 프론트엔드 개발/운영
+* 신규 서비스 구축 및 레거시 시스템 유지보수, 기능 고도화 담당
+
+---
+
+## 💻 실무 프로젝트 (Work Projects)
+
+### 📌 T셀파 학교 크롤러 개발 및 운영
+* **기간:** 2024.02 ~ 2024.12
+* **역할:** 풀스택 개발
+* **Tech:** Java, Spring Boot, MyBatis, JPA, MariaDB, Alpine.js, JavaScript, Freemarker
+* **주요 내용:**
+  * 전국 초·중·고등학교 홈페이지 데이터(공지사항, 급식, 가정통신문) 수집 자동화 시스템 구축
+  * Jsoup/Selenium을 활용한 크롤링 엔진 구현 및 학교별 상이한 구조 파싱 로직 최적화
+  * 수집 데이터 관리 및 검수를 위한 관리자(Admin) 페이지 개발
+
+### 📌 T셀파 AI 실험실 (GPT 기반 서비스)
+* **기간:** 2024.05 ~ 2024.09
+* **URL:** [바로가기](https://www.tsherpa.co.kr/site/gpt/index.html)
+* **역할:** 풀스택 개발
+* **Tech:** Java, Spring Boot, MS SQL, jQuery, Alpine.js, JavaScript
+* **주요 내용:**
+  * OpenAI API 연동을 통한 실시간 채팅형 AI 플랫폼 구축
+  * 사용자 프롬프트 입력을 처리하고 독후감을 분석/첨삭해주는 백엔드 로직 구현
+  * 직관적인 대화형 UI/UX 개발
+
+### 📌 T셀파 AI 디지털 교과서 자료실
+* **기간:** 2025.01 ~ 2025.03
+* **URL:** [바로가기](https://ele.tsherpa.co.kr/site/aidt_data/main.html)
+* **역할:** 풀스택 개발
+* **Tech:** Java, Spring Boot, MyBatis, MS SQL, JavaScript, Freemarker
+* **주요 내용:**
+  * AI 디지털 교과서 소개 및 자료 아카이빙 사이트 구축
+  * 자료실 게시판 CRUD 구현 및 카테고리별 검색/필터링 기능 개발
+  * 관리자 페이지를 통한 자료 배포 시스템 구축
+
+### 📌 T셀파 수업 혁신 연구대회 플랫폼
+* **기간:** 2025.04 ~ 2025.06
+* **URL:** [바로가기](https://ele.tsherpa.co.kr/site/class-innov/index.html)
+* **역할:** 풀스택 개발
+* **Tech:** Java, Spring Boot, JPA, MS SQL, Alpine.js, JavaScript
+* **주요 내용:**
+  * 교사 간 소통 및 아이디어 공유를 위한 이벤트/커뮤니티 페이지 개발
+  * 아이디어 접수, 투표, 댓글 시스템 구현
+  * 이벤트 기간 대용량 트래픽 처리를 위한 쿼리 최적화
+
+### 📌 T셀파 초등/중고등 이벤트 페이지 분리 및 고도화
+* **기간:** 2025.07 ~ 2025.10
+* **URL:** [초등 바로가기](https://ele.tsherpa.co.kr/site/event-main/index.html) / [중고등 바로가기](https://mh.tsherpa.co.kr/site/event-main/index.html)
+* **역할:** 풀스택 개발
+* **Tech:** Java, Spring Boot, MyBatis, MS SQL, jQuery, JavaScript
+* **주요 내용:**
+  * 기존 통합 운영되던 이벤트 시스템을 학교 급(초등/중고등) 별로 도메인 분리
+  * 레거시 코드 리팩토링 및 각 타겟 사용자(선생님)에 맞춘 UI/UX 개선
+
+### 📌 T셀파 동영상 플랫폼 개발
+* **기간:** 2025.11 ~ 진행중
+* **역할:** 프론트 엔드 개발
+* **Tech:** C#, MS SQL, Vue.js, JavaScript
+* **주요 내용:**
+  * 교사 및 학생이 동영상을 보며 교육을 받을 수 있는 영상 플랫폼 페이지 개발
+
+---
+
+## 🚀 개인 프로젝트 (Personal Projects)
+
+### 📌 OpenCV_SEnow (학교졸업작품)
+* **GitHub:** [바로가기](https://github.com/sedoll/OpenCV_SEnow)
+* **역할:** 1인 개발
+* **Tech:** Python, OpenCV, MediaPipe, Dlib, NumPy
+* **내용:**
+  * 카메라 앱 'SNOW'를 모티브로 한 실시간 얼굴 인식 및 필터 적용 프로그램
+  * MediaPipe와 Dlib를 활용하여 얼굴 랜드마크를 추출하고 실시간으로 스티커 및 이미지 필터링 처리 구현
+
+### 📌 Crypto Discord Bot
+* **GitHub:** [바로가기](https://github.com/sedoll/crypto-discord)
+* **역할:** 1인 개발
+* **Tech:** Python, Java (Spring Boot), Linux, Docker
+* **내용:**
+  * 디스코드 채팅방에서 가상화폐 시세를 실시간으로 조회할 수 있는 챗봇 개발
+  * 거래소 API를 연동하여 현재가 및 최근 거래내역, 자산 조회
+  * GPT API를 활용하여 거래소에서 현재 자산 데이터를 가져와 AI 평가 코멘트 추가
+
+### 📌 Japan Company Score
+* **GitHub:** [바로가기](https://github.com/sedoll/jp-company-score)
+* **역할:** 1인 개발
+* **Tech:** JavaScript
+* **내용:**
+  * 취업을 하고 있는 구직자를 위해 기업의 평점 정보를 수집하고 분석하는 도구
+  * 기업별 데이터를 크롤링하여 자체 기준에 따른 평점 스코어링 및 데이터 시각화 제공
+
+---
+
+## 🎓 교육 및 학력 (Education & Training)
+
+* **(주)천재교육** | 에듀테크 풀스택 AI 개발자 양성 (Java) 2기 | *2023.07 ~ 2023.12* [Project1](https://github.com/sedoll/team15) [Project2](https://github.com/sedoll/team16)
+* **국립 공주대학교** | 컴퓨터공학과 (학사) | *2021.03 ~ 2023.08*
+* **유한대학교** | 전자공학과 (전문학사) | *2017.03 ~ 2021.02*
+
+---
+
+## 🎖 자격증 및 수상 (Certificates & Awards)
+
+* **정보처리기사** | 한국산업인력공단 (2022.11)
+* **교내 캡스톤 경진대회 2등** | [유한대학교 AI Gym 프로젝트](https://github.com/sedoll/ai_gym) (2020.12)
+* **운전면허 2종 보통** | 경찰청 (2019.09)
+
+---
+
+## 📈 활동 및 통계 (Stats & Activity)
+
+### Github Stats
 <div>
-<img src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
-<img src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
-<img src ="https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
-<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-<img src="https://img.shields.io/badge/jsp-FF4000?style=for-the-badge&logo=jsr&logoColor=white">
-<img src ="https://img.shields.io/badge/thymeleaf-005F0F.svg?&style=for-the-badge&logo=thymeleaf&logoColor=white"/>
-<img src="https://img.shields.io/badge/apachefreemarker-326CAC?style=for-the-badge&logo=apachefreemarker&logoColor=white">
-<img src="https://img.shields.io/badge/alpinejs-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/vuejs-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=black">
+<img src="https://github-readme-stats.vercel.app/api?username=sedoll&show_icons=true&count_private=true&hide_border=true" align="center" />
 </div>
 
-<h3>⚒ Backend </h3>
+### BOJ Stats
 <div>
-<img  src="https://img.shields.io/badge/java-FF160B?style=for-the-badge&logo=Jameson&logoColor=white"/>
-<img src ="https://img.shields.io/badge/SPRING-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
-<img src ="https://img.shields.io/badge/SPRING BOOT-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white"/>
-<img src ="https://img.shields.io/badge/Python-blue.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
-<img src ="https://img.shields.io/badge/kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
-</div>
-
-<h3>⚒ DB</h3>
-<div>
-<img src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MYSQL&logoColor=white"/>
-<img src ="https://img.shields.io/badge/MariaDB-003545.svg?&style=for-the-badge&logo=MariaDB&logoColor=white"/>
-<img src ="https://img.shields.io/badge/microsoftsqlserver-CC2927.svg?&style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-</div>
-
-<h3>⚒ Others</h3>
-<div>
-<img src ="https://img.shields.io/badge/android-34A853.svg?&style=for-the-badge&logo=android&logoColor=white"/>
-<img src ="https://img.shields.io/badge/androidstudio-3DDC84.svg?&style=for-the-badge&logo=androidstudio&logoColor=white"/>
-<img src ="https://img.shields.io/badge/opencv-5C3EE8.svg?&style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src ="https://img.shields.io/badge/jenkins-D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>
-<img src ="https://img.shields.io/badge/Redis-FF4438.svg?&style=for-the-badge&logo=Redis&logoColor=white"/>
-<img src ="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<img src ="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-<img src ="https://img.shields.io/badge/gitlab-FC6D26.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
-</div>
-
-<h2>📝 SNS </h2>
-<div>
-<a alt="github" href="https://github.com/sedoll" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a alt="instagram" href="https://www.instagram.com/se_do11/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a alt="naver blog" href="https://blog.naver.com/tmvmffpsej" target="_blank">
-<img src="https://img.shields.io/badge/Naver blog-03C75A?style=for-the-badge&logo=naver&logoColor=white">
-</a>
-<a alt="velog" href="https://velog.io/@sedo11/posts" target="_blank">
-<img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
-</a>
-<a href="https://www.reddit.com/user/Educational_Daikon87" target="_blank">
-<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
-</div>
-<br/>
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sedoll&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-<br/>  
-
-
-## BOJ Stats  
-<div align="center">
 <a href="https://solved.ac/sedo/">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sedo">
 </a>
 </div>
-<br/>  
 
-
-
-## Recent Blog Posts  
-<div align="center">
+### Recent Blog Posts (Visitors)
+<div>
 <img src="https://komarev.com/ghpvc/?username=sedoll&&style=flat-square" align="center" />
-</div>  
-<br/>  
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+</div>
