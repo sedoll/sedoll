@@ -51,7 +51,7 @@
 
 ### 📌 T셀파 AI 실험실 (GPT 기반 서비스)
 * **기간:** 2024.05 ~ 2024.09
-* **URL:** [바로가기](https://www.tsherpa.co.kr/site/gpt/index.html)
+* **URL:** [https://www.tsherpa.co.kr/site/gpt/index.html](https://www.tsherpa.co.kr/site/gpt/index.html)
 * **역할:** 풀스택 개발
 * **Tech:** Java, Spring Boot, MS SQL, jQuery, Alpine.js, JavaScript
 * **주요 내용:**
@@ -61,7 +61,7 @@
 
 ### 📌 T셀파 AI 디지털 교과서 자료실
 * **기간:** 2025.01 ~ 2025.03
-* **URL:** [바로가기](https://ele.tsherpa.co.kr/site/aidt_data/main.html)
+* **URL:** [https://ele.tsherpa.co.kr/site/aidt_data/main.html](https://ele.tsherpa.co.kr/site/aidt_data/main.html)
 * **역할:** 풀스택 개발
 * **Tech:** Java, Spring Boot, MyBatis, MS SQL, JavaScript, Freemarker
 * **주요 내용:**
@@ -71,7 +71,7 @@
 
 ### 📌 T셀파 수업 혁신 연구대회 플랫폼
 * **기간:** 2025.04 ~ 2025.06
-* **URL:** [바로가기](https://ele.tsherpa.co.kr/site/class-innov/index.html)
+* **URL:** [https://ele.tsherpa.co.kr/site/class-innov/index.html](https://ele.tsherpa.co.kr/site/class-innov/index.html)
 * **역할:** 풀스택 개발
 * **Tech:** Java, Spring Boot, JPA, MS SQL, Alpine.js, JavaScript
 * **주요 내용:**
@@ -81,7 +81,7 @@
 
 ### 📌 T셀파 초등/중고등 이벤트 페이지 분리 및 고도화
 * **기간:** 2025.07 ~ 2025.10
-* **URL:** [초등 바로가기](https://ele.tsherpa.co.kr/site/event-main/index.html) / [중고등 바로가기](https://mh.tsherpa.co.kr/site/event-main/index.html)
+* **URL:** [ttps://ele.tsherpa.co.kr/site/event-main/index.html](https://ele.tsherpa.co.kr/site/event-main/index.html) / [https://mh.tsherpa.co.kr/site/event-main/index.html](https://mh.tsherpa.co.kr/site/event-main/index.html)
 * **역할:** 풀스택 개발
 * **Tech:** Java, Spring Boot, MyBatis, MS SQL, jQuery, JavaScript
 * **주요 내용:**
@@ -113,8 +113,8 @@
 * **Tech:** Python, Java (Spring Boot), Linux, Docker
 * **내용:**
   * 디스코드 채팅방에서 가상화폐 시세를 실시간으로 조회할 수 있는 챗봇 개발
-  * 거래소 API를 연동하여 현재가 및 최근 거래내역, 자산 조회
-  * GPT API를 활용하여 거래소에서 현재 자산 데이터를 가져와 AI 평가 코멘트 추가
+  * 빗썸 거래소 API를 연동하여 현재가 및 최근 거래내역, 자산 조회
+  * ChatGPT API를 활용하여 현재 자산의 정보를 분석하여 코멘트 출력
 
 ### 📌 Japan Company Score
 * **GitHub:** [바로가기](https://github.com/sedoll/jp-company-score)
@@ -143,11 +143,6 @@
 ---
 
 ## 📈 활동 및 통계 (Stats & Activity)
-
-### Github Stats
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=sedoll&show_icons=true&count_private=true&hide_border=true" align="center" />
-</div>
 
 ### BOJ Stats
 <div>
