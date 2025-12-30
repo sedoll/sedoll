@@ -81,7 +81,7 @@
 
 ### 📌 T셀파 초등/중고등 이벤트 페이지 분리 및 고도화
 * **기간:** 2025.07 ~ 2025.10
-* **URL:** [ttps://ele.tsherpa.co.kr/site/event-main/index.html](https://ele.tsherpa.co.kr/site/event-main/index.html) / [https://mh.tsherpa.co.kr/site/event-main/index.html](https://mh.tsherpa.co.kr/site/event-main/index.html)
+* **URL:** [초등바로가기](https://ele.tsherpa.co.kr/site/event-main/index.html) / [중고등바로가기](https://mh.tsherpa.co.kr/site/event-main/index.html)
 * **역할:** 풀스택 개발
 * **Tech:** Java, Spring Boot, MyBatis, MS SQL, jQuery, JavaScript
 * **주요 내용:**
@@ -100,7 +100,7 @@
 ## 🚀 개인 프로젝트 (Personal Projects)
 
 ### 📌 OpenCV_SEnow (학교졸업작품)
-* **GitHub:** [바로가기](https://github.com/sedoll/OpenCV_SEnow)
+* **GitHub:** [https://github.com/sedoll/OpenCV_SEnow](https://github.com/sedoll/OpenCV_SEnow)
 * **역할:** 1인 개발
 * **Tech:** Python, OpenCV, MediaPipe, Dlib, NumPy
 * **내용:**
@@ -108,7 +108,7 @@
   * MediaPipe와 Dlib를 활용하여 얼굴 랜드마크를 추출하고 실시간으로 스티커 및 이미지 필터링 처리 구현
 
 ### 📌 Crypto Discord Bot
-* **GitHub:** [바로가기](https://github.com/sedoll/crypto-discord)
+* **GitHub:** [https://github.com/sedoll/crypto-discord](https://github.com/sedoll/crypto-discord)
 * **역할:** 1인 개발
 * **Tech:** Python, Java (Spring Boot), Linux, Docker
 * **내용:**
@@ -117,7 +117,7 @@
   * ChatGPT API를 활용하여 현재 자산의 정보를 분석하여 코멘트 출력
 
 ### 📌 Japan Company Score
-* **GitHub:** [바로가기](https://github.com/sedoll/jp-company-score)
+* **GitHub:** [https://github.com/sedoll/jp-company-score](https://github.com/sedoll/jp-company-score)
 * **역할:** 1인 개발
 * **Tech:** JavaScript
 * **내용:**
