@@ -116,7 +116,7 @@
   * 빗썸 거래소 API를 연동하여 현재가 및 최근 거래내역, 자산 조회
   * ChatGPT API를 활용하여 현재 자산의 정보를 분석하여 코멘트 출력
 
-### 📌 Japan Company Score
+### 📌 Company Score
 * **GitHub:** [https://github.com/sedoll/jp-company-score](https://github.com/sedoll/jp-company-score)
 * **역할:** 1인 개발
 * **Tech:** JavaScript
