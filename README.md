@@ -42,6 +42,7 @@
 
 ### 📌 T셀파 학교 크롤러 개발 및 운영
 * **기간:** 2024.02 ~ 2024.12
+* **URL:** 회원만 접근 가능
 * **역할:** 풀스택 개발
 * **Tech:** Java, Spring Boot, MyBatis, JPA, MariaDB, Alpine.js, JavaScript, Freemarker
 * **주요 내용:**
