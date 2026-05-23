@@ -338,7 +338,6 @@ Spring Boot 환경에서 외부 API 호출 시 발생하는 병목을 해소하�
 
 ## 📌 AI 기반 주식/코인 뉴스 자동화 플랫폼
 
-- **GitHub:** https://github.com/sedoll/telegram_n8n_stock_chatbot
 - **Telegram:** https://t.me/ai_stock_crypto_summary_news
 - **Threads:** https://www.threads.com/@se_do146
 - **역할:** 1인 개발
