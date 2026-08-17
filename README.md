@@ -5,9 +5,8 @@
 - **성명:** 오세훈
 - **직무:** Full Stack Developer (Java / Spring Boot)
 - **Email:** donhanm12@gmail.com
-- **GitHub:** https://github.com/sedoll
-- **Blog:** https://blog.naver.com/tmvmffpsej
-- **Velog:** https://velog.io/@sedo11/posts
+- **SNS** [GitHub](https://github.com/sedoll), [Naver Blog](https://blog.naver.com/tmvmffpsej), [Velog](https://velog.io/@sedo11/posts)
+- **AI 자동화 SNS** [Telegram](https://t.me/ai_stock_crypto_summary_news), [Instargram](https://www.instagram.com/ai_stock_crypto_summary_news/), [Threads](https://www.threads.com/@ai_stock_crypto_summary_news?hl=ko)
 
 ---
 
@@ -44,6 +43,12 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+## AI TOOL
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/GPT%20Codex-412991?style=flat-square&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
 ---
 
