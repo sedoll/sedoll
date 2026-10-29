@@ -2,11 +2,8 @@
 
 ## 👤 기본 정보
 
-- **성명:** 오세훈
 - **직무:** Full Stack Developer (Java / Spring Boot)
 - **Email:** donhanm12@gmail.com
-- **SNS** [GitHub](https://github.com/sedoll), [Naver Blog](https://blog.naver.com/tmvmffpsej), [Velog](https://velog.io/@sedo11/posts)
-- **AI 자동화 SNS** [Telegram](https://t.me/ai_stock_crypto_summary_news), [Instargram](https://www.instagram.com/ai_stock_crypto_summary_news/), [Threads](https://www.threads.com/@ai_stock_crypto_summary_news?hl=ko)
 
 ---
 
