@@ -1,0 +1,45 @@
+name: Refresh PR states
+
+# Updates the Open / Merged / Closed label of each PR logged in README.md. No LLM involved.
+on:
+  schedule:
+    - cron: "0 15 * * *" # every day at 00:00 KST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Refresh labels
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          label() {
+            case "$1:$2" in
+              MERGED:*) echo "🟣 Merged" ;;
+              CLOSED:*) echo "🔴 Closed" ;;
+              OPEN:true) echo "⚪ Draft" ;;
+              OPEN:*) echo "🟡 Open" ;;
+              *) return 1 ;;
+            esac
+          }
+          grep -oE '^- [0-9-]+ · [^ ]+ [A-Za-z]+ · \[[^]]*\]\(https://github.com/[^)]+/pull/[0-9]+\)' README.md |
+            grep -oE 'https://github.com/[^)]+/pull/[0-9]+' |
+            while IFS= read -r url; do
+              # A PR that can't be read right now keeps its old label.
+              read -r state draft < <(gh pr view "$url" --json state,isDraft --jq '"\(.state) \(.isDraft)"') || continue
+              new=$(label "$state" "$draft") || continue
+              sed -i -E "s#^(- [0-9-]+ · )(🟡 Open|⚪ Draft|🟣 Merged|🔴 Closed)( · \[[^]]*\]\($url\))#\1$new\3#" README.md
+            done
+      - name: Commit changes
+        run: |
+          git diff --quiet && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "docs: refresh PR states"
+          git push
