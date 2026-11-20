@@ -7,6 +7,14 @@
 
 ---
 
+# 🔀 오픈소스 PR 기록
+
+<!-- pr-log:start -->
+- 2026-11-20 · [storytold/cadcraft#3300](https://github.com/storytold/cadcraft/pull/3300) — Windows에서 TEMP 경로가 길면 단일 인스턴스 소켓 테스트가 패닉하던 문제 수정. 테스트 소켓 경로를 짧게 줄이고, 소켓을 열 수 없으면 테스트를 건너뛰도록 했다.
+<!-- pr-log:end -->
+
+---
+
 # 🛠 기술 스택 (Tech Skills)
 
 ## Backend
@@ -371,14 +379,6 @@ OpenCV와 얼굴 랜드마크 인식 기술을 활용해 실시간 카메라 필
 
 ## 🏆 수상
 - [교내 캡스톤 경진대회 2등](https://github.com/sedoll/ai_gym) (2020)
-
----
-
-# 🔀 오픈소스 PR 기록
-
-<!-- pr-log:start -->
-- 2026-11-20 · [storytold/cadcraft#3300](https://github.com/storytold/cadcraft/pull/3300) — Windows에서 TEMP 경로가 길면 단일 인스턴스 소켓 테스트가 패닉하던 문제 수정. 테스트 소켓 경로를 짧게 줄이고, 소켓을 열 수 없으면 테스트를 건너뛰도록 했다.
-<!-- pr-log:end -->
 
 ---
 
