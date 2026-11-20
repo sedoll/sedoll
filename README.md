@@ -10,6 +10,7 @@
 # 🔀 오픈소스 PR 기록
 
 <!-- pr-log:start -->
+- 2026-11-19 · [melonDS-emu/melonDS#2808](https://github.com/melonDS-emu/melonDS/pull/2808) — Qt 입력 설정에 '터치 화면 입력 비활성화' 체크박스를 추가해, 켜면 DS 터치 화면의 마우스·펜·터치 입력을 무시하도록 함 (키보드·컨트롤러 버튼은 영향 없음).
 - 2026-11-20 · [storytold/cadcraft#3300](https://github.com/storytold/cadcraft/pull/3300) — Windows에서 TEMP 경로가 길면 단일 인스턴스 소켓 테스트가 패닉하던 문제 수정. 테스트 소켓 경로를 짧게 줄이고, 소켓을 열 수 없으면 테스트를 건너뛰도록 했다.
 <!-- pr-log:end -->
 
