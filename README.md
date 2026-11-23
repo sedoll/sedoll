@@ -10,6 +10,7 @@
 # 🔀 오픈소스 PR 기록
 
 <!-- pr-log:start -->
+- 2026-11-21 · 🟡 Open · [storytold/photocraft#16196](https://github.com/storytold/photocraft/pull/16196) — Stroke Path가 선택한 도구가 아닌 마지막 브러시 도구의 설정으로 그려지던 문제 수정. 선택한 도구의 브러시로 실행한 뒤 원래 브러시를 복원하고 테스트 추가 (#16182)
 - 2026-11-21 · 🟡 Open · [storytold/gridcraft#4616](https://github.com/storytold/gridcraft/pull/4616) — XLSX 저장 시 fgColor가 없던 solid 채우기에 indexed 64가 추가돼 Excel에서 검게 보이던 문제 수정. fgColor를 쓰지 않도록 하고 테스트 추가 (#4582)
 - 2026-11-21 · 🟣 Merged · [tangency-labs/fieldcraft#1028](https://github.com/tangency-labs/fieldcraft/pull/1028) — 설정 파일의 units 값을 이 버전이 읽지 못해도(새 버전이 저장한 프리셋·단위) 나머지 환경설정은 유지하고 units만 기본값으로 읽도록 수정 (#954)
 - 2026-11-20 · ⚪ Draft · [lidge-jun/opencodex#8973](https://github.com/lidge-jun/opencodex/pull/8973) — restore.ts 끝에 함수 없이 남아 있던 고아 docstring 한 줄을 삭제하는 주석 정리 (동작 변경 없음)
