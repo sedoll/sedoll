@@ -10,6 +10,7 @@
 # 🔀 오픈소스 PR 기록
 
 <!-- pr-log:start -->
+- 2026-11-21 · 🟡 Open · [storytold/wordcraft#7196](https://github.com/storytold/wordcraft/pull/7196) — References › Table of Contents의 Automatic Table 1·2 제목이 영어로 고정돼 프랑스어 UI에서도 영어로 나오던 문제 수정. 두 제목을 번역(tl!)을 거치게 변경 (#7194)
 - 2026-11-21 · 🟡 Open · [storytold/photocraft#16196](https://github.com/storytold/photocraft/pull/16196) — Stroke Path가 선택한 도구가 아닌 마지막 브러시 도구의 설정으로 그려지던 문제 수정. 선택한 도구의 브러시로 실행한 뒤 원래 브러시를 복원하고 테스트 추가 (#16182)
 - 2026-11-21 · 🟡 Open · [storytold/gridcraft#4616](https://github.com/storytold/gridcraft/pull/4616) — XLSX 저장 시 fgColor가 없던 solid 채우기에 indexed 64가 추가돼 Excel에서 검게 보이던 문제 수정. fgColor를 쓰지 않도록 하고 테스트 추가 (#4582)
 - 2026-11-21 · 🟣 Merged · [tangency-labs/fieldcraft#1028](https://github.com/tangency-labs/fieldcraft/pull/1028) — 설정 파일의 units 값을 이 버전이 읽지 못해도(새 버전이 저장한 프리셋·단위) 나머지 환경설정은 유지하고 units만 기본값으로 읽도록 수정 (#954)
