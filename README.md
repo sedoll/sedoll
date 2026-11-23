@@ -10,6 +10,9 @@
 # 🔀 오픈소스 PR 기록
 
 <!-- pr-log:start -->
+- 2026-11-23 · 🟡 Open · [storytold/craft-libs#3172](https://github.com/storytold/craft-libs/pull/3172) — 페이지 크기 타일링 패턴 셀 중 채우기가 닿는 부분만 렌더링해 링크 밑줄이 많은 PDF의 첫 페이지 렌더링을 13.5초에서 0.8초로 단축
+- 2026-11-23 · 🟡 Open · [storytold/pdfcraft#8133](https://github.com/storytold/pdfcraft/pull/8133) — 한글이 포함된 텍스트 편집 시 Type 3 대체 폰트가 한국어 폰트를 우선 선택하도록 수정해 한글 입력 오류 해결
+- 2026-11-21 · 🟡 Open · [storytold/pdfcraft#8028](https://github.com/storytold/pdfcraft/pull/8028) — 붙여넣은 텍스트의 제로폭 문자(U+200B·U+2060·U+FEFF)를 그리기 전에 제거해 텍스트 추가가 거부되던 문제 수정하고 테스트 추가 (#7971)
 - 2026-11-21 · 🟡 Open · [storytold/wordcraft#7196](https://github.com/storytold/wordcraft/pull/7196) — References › Table of Contents의 Automatic Table 1·2 제목이 영어로 고정돼 프랑스어 UI에서도 영어로 나오던 문제 수정. 두 제목을 번역(tl!)을 거치게 변경 (#7194)
 - 2026-11-21 · 🟡 Open · [storytold/photocraft#16196](https://github.com/storytold/photocraft/pull/16196) — Stroke Path가 선택한 도구가 아닌 마지막 브러시 도구의 설정으로 그려지던 문제 수정. 선택한 도구의 브러시로 실행한 뒤 원래 브러시를 복원하고 테스트 추가 (#16182)
 - 2026-11-21 · 🟡 Open · [storytold/gridcraft#4616](https://github.com/storytold/gridcraft/pull/4616) — XLSX 저장 시 fgColor가 없던 solid 채우기에 indexed 64가 추가돼 Excel에서 검게 보이던 문제 수정. fgColor를 쓰지 않도록 하고 테스트 추가 (#4582)
